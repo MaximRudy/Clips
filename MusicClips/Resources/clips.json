@@ -1,0 +1,64 @@
+[{
+  "name": "Imagine dragons",
+  "song": "Believer",
+  "time": 3.37,
+  "rating": 8.7,
+  "coverName": "beliver",
+  "clipURL": "beliver.mp4"
+}, {
+  "name": "Linkin Park",
+  "song": "Final Masquerade",
+  "time": 5.03,
+  "rating": 9.2,
+  "coverName": "Final",
+  "clipURL": "Final.mp4"
+}, {
+  "name": "Three Days Grace",
+  "song": "I Hate Everything About You",
+  "time": 3.39,
+  "rating": 8.2,
+  "coverName": "Three Days Grace",
+  "clipURL": "Three Days Grace.mp4"
+}, {
+  "name": "Green Day",
+  "song": "Boulevard Of Broken Dreams",
+  "time": 4.47,
+  "rating": 9.3,
+  "coverName": "Green Day"
+}, {
+  "name": "Evanescence",
+  "song": "Bring Me To Life",
+  "time": 4.12,
+  "rating": 8.9,
+  "coverName": "Evanescence"
+}, {
+  "name": "Limp Bizkit",
+  "song": "Behind Blue Eyes",
+  "time": 4.29,
+  "rating": 8.6,
+  "coverName": "Limp"
+}, {
+  "name": "Red Hot Chili Peppers",
+  "song": "Californication",
+  "time": 5.41,
+  "rating": 8.1,
+  "coverName": "Californication"
+}, {
+  "name": "AC/DC",
+  "song": "Highway to Hell",
+  "time": 4.44,
+  "rating": 9.5,
+  "coverName": "ACDC"
+}, {
+  "name": "Би-2",
+  "song": "Полковнику никто не пишет",
+  "time": 4.03,
+  "rating": 9.7,
+  "coverName": "Би-2"
+}, {
+  "name": "Ария",
+  "song": "Беспечный Ангел",
+  "time": 3.58,
+  "rating": 9.7,
+  "coverName": "Ария"
+}]
